@@ -1,1 +1,2 @@
-
+git clone https://github.com/EleutherAI/gpt-j-6B.git
+cd gpt-j-6B
